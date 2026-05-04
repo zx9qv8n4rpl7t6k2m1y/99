@@ -141,7 +141,7 @@
 
       <!-- CUSTOM LOADING SCREEN -->
       <div id="custom-loading">
-        <div class="loading-icon">G+</div>
+        <div class="loading-icon">Classroom Central</div>
         <div class="loading-title">LOADING</div>
         <div class="loading-subtitle">Preparing game assets...</div>
         <div class="progress-container">
